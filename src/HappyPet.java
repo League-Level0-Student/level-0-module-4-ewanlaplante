@@ -38,5 +38,5 @@ pet = JOptionPane.showInputDialog("What type of pet do you want?");
 			happinessLevel++;}
 	}
 	}
-
+}
 	
